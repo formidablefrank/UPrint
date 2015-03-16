@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Open';
+  src: url('../fonts/Open-Sans-800.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-Regular.ttf');
+}
+
+#intro{
+    color: blue;
+}
+
+p{
+    color: #000;
+}
+
+.bordered{
+    border: 1px solid black;
+}
+
+.row{
+}
